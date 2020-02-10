@@ -32,3 +32,7 @@ This game was funded by the US National Science Foundation Awards CNS-1452854 an
 
 
 [![EViD Logo](/public/images/evidlogo.png)](https://evidlab.umd.edu)
+
+The [Ethics and Values in Design Lab](https://evidlab.umd.edu) is a research lab 
+in the [College of Information Studies](https://ischool.umd.edu) at the 
+[University of Maryland](https://umd.edu).
